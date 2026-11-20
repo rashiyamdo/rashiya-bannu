@@ -330,6 +330,12 @@ footer {
         flex-wrap: wrap;
     }
 
+    .hero-container {
+    flex-direction: column-reverse;
+    text-align: center;
+    gap: 35px;
+}
+    
     .menu-toggle {
         display: block;
     }
